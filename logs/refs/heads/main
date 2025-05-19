@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 81bd3f38b1e00835cca5e73089b4417794a1b27d developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747680599 -0300	commit (initial): first commit
+81bd3f38b1e00835cca5e73089b4417794a1b27d 81bd3f38b1e00835cca5e73089b4417794a1b27d developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747680719 -0300	Branch: renamed refs/heads/mainn to refs/heads/main
+81bd3f38b1e00835cca5e73089b4417794a1b27d 8651b4541b4e24080ce0f1bc0bda5f3db9f8de9d developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747683602 -0300	commit: update do yarn
+8651b4541b4e24080ce0f1bc0bda5f3db9f8de9d 1a35fde9e74367437197ab44235be998a2d81ea9 developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747684615 -0300	commit: chore: add prisma and postinstall script for Railway
+1a35fde9e74367437197ab44235be998a2d81ea9 4b745ecc0ce58b4a2bf934f1037ab956388e1cb5 developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747685175 -0300	commit: chore: set Node.js 20 for Railway
+4b745ecc0ce58b4a2bf934f1037ab956388e1cb5 a556af2b87ee38b62df835ecf69fa86404843a3b developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747685337 -0300	commit: fix: specify Node.js 20 in package.json engines
+a556af2b87ee38b62df835ecf69fa86404843a3b 1d01971f3d7c86ec5f403070fc451eafcec4253a developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747685631 -0300	commit: chore: force Node.js 20 with nixpacks for Railway
+1d01971f3d7c86ec5f403070fc451eafcec4253a 1f3b448be66fa9902f33cb0af6a2e853aaca516f developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747685801 -0300	commit: fix: corrigido railway.json com build/start como objeto
+1f3b448be66fa9902f33cb0af6a2e853aaca516f f52c018a35345bf2bcb4be5d6bbfd8dcbec565ba developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747685990 -0300	commit: chore: adiciona configuração do nixpacks para Node 20 e Yarn
+f52c018a35345bf2bcb4be5d6bbfd8dcbec565ba 4345cc0c9a793e7fe0ca6c09d7f26737faa3959e developersoftwarebrazil <contatodevelopersbrazildna@gmail.com> 1747689583 -0300	commit: adicionando prisma migration
